@@ -1,0 +1,4 @@
+Name:
+Major:
+Year:
+Favorite thing about robotics (so far):
