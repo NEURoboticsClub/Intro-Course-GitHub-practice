@@ -1,0 +1,4 @@
+Name: Chris Swagler
+Major: CE / CS
+Year: 4th
+Favorite thing about robotics (so far): I love writing software and seeing robots physically do things!
