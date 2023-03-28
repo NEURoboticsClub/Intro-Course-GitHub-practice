@@ -1,0 +1,4 @@
+Name:Aniket Sarkar
+Major:Computer Engineering
+Year:2026
+Favorite thing about robotics (so far): Programming and testing the robot
