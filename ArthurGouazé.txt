@@ -1,0 +1,4 @@
+Name: Arthur Gouazé 
+Major: CE + CS
+Year: 2
+Favorite thing about robotics (so far): Combat Robotics
