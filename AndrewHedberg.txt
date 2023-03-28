@@ -1,0 +1,4 @@
+Name: Andrew Hedberg
+Major: ME
+Year: 1st
+Favorite thing about robotics (so far): I love making CAD for parts that will be directly used in robots!
