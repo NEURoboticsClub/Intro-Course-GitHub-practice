@@ -1,0 +1,4 @@
+Name: Connor Shevory
+Major: Mechanical Engineering
+Year: First Year
+Favorite thing about robotics (so far): Coding the IntroBot's movement
