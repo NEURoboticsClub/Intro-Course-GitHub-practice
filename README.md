@@ -1,6 +1,8 @@
 # Intro-Course-GitHub-practice
 Welcome to the NURobotics Intro to Robotics Course's practice repository! We'll be using this repo as practice to get familiar with git and GitHub. The following is a step-by-step instructional guide for making your first commit and opening your first pull request (PR)!
 
+## Attendance
+Fill out this attendance form for 3/28: https://forms.gle/dPvWEHTvNdas61E8A
 
 # Tutorial
 ## Overview
@@ -148,5 +150,4 @@ The moment of truth. Is our code finally on the main branch? Switch from the "Pu
 
 ![Update main](img/updated_main.png)
 
-## Attendance
-Once you're done, fill out this attendance form for 3/28: https://forms.gle/dPvWEHTvNdas61E8A
+
