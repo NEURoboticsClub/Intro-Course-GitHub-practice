@@ -1,0 +1,4 @@
+name: neo
+major: computer science & philosophy
+year: 2
+favorite thing about robotics (so far): making things
