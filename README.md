@@ -147,3 +147,6 @@ Once approved and merged, this PR page will look like this. Feel free to hit "De
 The moment of truth. Is our code finally on the main branch? Switch from the "Pull requests" tab to the "Code" tab. Awesome! You'll see that the PR was merged and that the newly created file is now on the main branch. Nice work!
 
 ![Update main](img/updated_main.png)
+
+## Attendance
+Once you're done, fill out this attendance form for 3/28: https://forms.gle/dPvWEHTvNdas61E8A
